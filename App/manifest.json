@@ -1,0 +1,21 @@
+{
+  "name": "تخته دورهمی",
+  "short_name": "تخته دورهمی",
+  "id": "/score-master-pwa/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "description": "شمارشگر امتیاز حرفه‌ای برای بازی‌های گروهی و کاروم",
+  "categories": ["games", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
